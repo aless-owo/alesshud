@@ -1,0 +1,9 @@
+"characters"
+{
+	"basic_soldier"
+	{
+		"image"	"../console/characters/soldier"
+		"item_url"	"soldier"
+		"store_text"		"#TF_Trial_MainMenu_Upsell_Soldier"
+	}
+}
